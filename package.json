@@ -19,7 +19,7 @@
     "sqlite3": "^4.1.0"
   },
   "devDependencies": {
-    "webpack": "^4.39.2",
+    "webpack": "^5.75.0",
     "webpack-node-externals": "^1.7.2"
   }
 }
